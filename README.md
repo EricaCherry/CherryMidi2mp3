@@ -7,8 +7,8 @@ The script will create a .ini file which holds the default directories for sound
 
 
 FEATURES (SO FAR) 
-1. IT WORKS!! 
-2. you can pick your own soundfont. 
+1. It does. 
+2. you can pick your own soundfont. *great for making n64 covers*
 3. thats pretty much it. 
 4. most non default soundfonts sound better with a velocity modifier so this script will also boost the velocity of all the notes for better output.
 
